@@ -1,2 +1,2 @@
-# 100-numpy-execise
+# 100-numpy-exercise
 numpyの練習
